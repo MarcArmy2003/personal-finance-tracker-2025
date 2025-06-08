@@ -15,10 +15,6 @@ Ideal for users seeking to combine **financial visibility** with **automation** 
 
 ---
 
-### 📈 Purpose
-
-To build a maintainable system that helps individuals:
-
 ## 📊 Purpose
 
 To build a maintainable system that helps individuals:
