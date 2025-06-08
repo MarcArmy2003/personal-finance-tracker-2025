@@ -2,6 +2,27 @@
 
 This repository contains a modular and privacy-conscious framework for managing personal finances using AI-enhanced insights, structured Google Sheets or Excel inputs, and customizable automation flows.
 
+💸 Personal Finance Tracker 2025
+
+### 🧾 Description
+
+**Personal Finance Tracker 2025** is a modular, privacy-conscious system for managing personal finances using structured inputs, automation flows, and optional AI-powered insights. Built with flexibility and control in mind, this framework supports both technical and non-technical users seeking a transparent, customizable way to track income, spending, and savings across various tools and platforms.
+
+This tracker supports:
+- 📊 **Structured inputs** from Google Sheets or Microsoft Excel  
+- ⚙️ **Automation via Power Automate, Google Apps Script, or Notion integrations**  
+- 🧠 **Optional AI-enhanced analysis** using GPT-based models for personalized financial insights  
+- 🏦 **Support for single-user and multi-user (e.g., household) tracking**  
+- 🔐 **Local-first and privacy-preserving architecture** (no required cloud backend)
+
+Ideal for users seeking to combine **financial visibility** with **automation** and **data-informed decision-making**, without relying on commercial finance apps that require data sharing or subscriptions.
+
+---
+
+### 📈 Purpose
+
+To build a maintainable system that helps individuals:
+
 ## 📊 Purpose
 
 To build a maintainable system that helps individuals:
