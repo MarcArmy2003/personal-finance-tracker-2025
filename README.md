@@ -1,6 +1,3 @@
-# personal-finance-tracker-2025
-AI-assisted system for tracking income, spending, and savings goals using Google Sheets, automation tools, and GPT-based insights.
-
 # 💸 Personal Finance Tracker 2025
 
 This repository contains a modular and privacy-conscious framework for managing personal finances using AI-enhanced insights, structured Google Sheets or Excel inputs, and customizable automation flows.
